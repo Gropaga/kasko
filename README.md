@@ -1,0 +1,2 @@
+# kasko
+sample DDD app
